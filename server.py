@@ -72,3 +72,4 @@ if __name__ == "__main__":
         servidor.serve_forever()
     except KeyboardInterrupt:
         sys.exit(0)
+# versao 1.2
